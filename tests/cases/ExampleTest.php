@@ -2,9 +2,9 @@
 
 namespace Tests\Cases;
 
+use Contributte\Bare\Example;
 use Tester\Assert;
 use Tester\TestCase;
-use TODO_Vendor\TODO_Package\Example;
 
 require __DIR__ . '/../bootstrap.php';
 

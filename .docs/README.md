@@ -1,11 +1,11 @@
-# TODO_Package
+# Contributte / Bare
 
-TODO_short_description
+@todo
 
 ## Setup
 
-TODO_setup
+@todo
 
 ## Usage
 
-TODO_usage
+@todo

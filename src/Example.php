@@ -1,6 +1,6 @@
 <?php declare(strict_types = 1);
 
-namespace TODO_Vendor\TODO_Package;
+namespace Contributte\Bare;
 
 class Example
 {

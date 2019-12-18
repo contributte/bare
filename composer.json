@@ -1,31 +1,34 @@
 {
-  "name": "TODO_Vendor/TODO_Package",
-  "description": "TODO_description",
+  "name": "contributte/bare",
+  "description": "This is an empty library skeleton to speed up new package development.",
   "keywords": [
-    "TODO_keywords"
+    "nette",
+    "contributte",
+    "php"
   ],
   "type": "library",
   "license": "MPL-2.0",
-  "homepage": "https://github.com/TODO_Vendor/TODO_Package",
+  "homepage": "https://github.com/contributte/latte",
   "authors": [
     {
-      "name": "TODO_author"
+      "name": "Milan Felix Šulc",
+      "homepage": "https://f3l1x.io"
     }
   ],
   "require": {
-    "php": "^7.2"
+    "php": "^7.3"
   },
   "require-dev": {
-    "ninjify/nunjuck": "^0.2.0",
-    "ninjify/qa": "^0.9.0",
-    "phpstan/phpstan-deprecation-rules": "^0.11",
-    "phpstan/phpstan-nette": "^0.11",
-    "phpstan/phpstan-shim": "^0.11",
-    "phpstan/phpstan-strict-rules": "^0.11"
+    "ninjify/nunjuck": "^0.3.0",
+    "ninjify/qa": "^0.10.0",
+    "phpstan/phpstan": "^0.12.2",
+    "phpstan/phpstan-deprecation-rules": "^0.12.0",
+    "phpstan/phpstan-nette": "^0.12.0",
+    "phpstan/phpstan-strict-rules": "^0.12.0"
   },
   "autoload": {
     "psr-4": {
-      "TODO_Vendor\\TODO_Package\\": "src"
+      "Contributte\\Bare\\": "src"
     }
   },
   "autoload-dev": {
