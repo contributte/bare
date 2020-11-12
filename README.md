@@ -1,15 +1,25 @@
-<h1 align=center>Contributte Bare</h1>
+![Contributte Bare](https://heatbadger.now.sh/github/readme/contributte/bare/)
+
 
 <p align=center>
-    This is an empty library skeleton to speed up new package development.
-</p>
-
-<p align=center>
-  <a href="https://travis-ci.org/contributte/bare"><img src="https://img.shields.io/travis/contributte/bare.svg?style=flat-square"></a>
-  <a href="https://coveralls.io/r/contributte/bare"><img src="https://img.shields.io/coveralls/contributte/bare.svg?style=flat-square"></a>
-  <a href="https://packagist.org/packages/contributte/bare"><img src="https://img.shields.io/packagist/dm/contributte/bare.svg?style=flat-square"></a>
-  <a href="https://packagist.org/packages/contributte/bare"><img src="https://img.shields.io/packagist/v/contributte/bare.svg?style=flat-square"></a>
-  <a href="http://bit.ly/ctteg"><img src="https://img.shields.io/gitter/room/contributte/contributte.svg?style=flat-square"></a>
+  <a href="https://github.com/contributte/bare/actions">
+    <img src="https://badgen.net/github/checks/contributte/bare/master?cache=300">
+  </a>
+  <a href="https://coveralls.io/r/contributte/bare">
+    <img src="https://badgen.net/coveralls/c/github/contributte/bare?cache=300">
+  </a>
+  <a href="https://packagist.org/packages/contributte/bare">
+    <img src="https://badgen.net/packagist/dm/contributte/bare">
+  </a>
+  <a href="https://packagist.org/packages/contributte/bare">
+    <img src="https://badgen.net/packagist/v/contributte/bare">
+  </a>
+  <a href="http://bit.ly/ctteg">
+    <img src="https://badgen.net/badge/chat/gitter/cyan">
+  </a>
+  <a href="https://contributte.org/partners.html">
+    <img src="https://badgen.net/badge/become/a%20patron/F96854">
+  </a>
 <p>
 
 <p align=center>
@@ -18,7 +28,7 @@ Website ðŸš€ <a href="https://contributte.org">contributte.org</a> | Contact ðŸ‘
 
 ## Usage
 
-To install latest version of `contributte/bare` use [Composer](https://getcomposer.com).
+To install the latest version of `contributte/bare` use [Composer](https://getcomposer.com).
 
 ```
 composer require contributte/bare
@@ -42,7 +52,7 @@ See [how to contribute](https://contributte.org/contributing.html) to this packa
 This package is currently maintaining by these authors.
 
 <a href="https://github.com/f3l1x">
-    <img width="80" height="80" src="https://avatars2.githubusercontent.com/u/538058?v=3&s=80">
+  <img width="80" height="80" src="https://avatars2.githubusercontent.com/u/538058?v=3&s=80">
 </a>
 
 -----
