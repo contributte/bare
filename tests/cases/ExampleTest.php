@@ -19,4 +19,4 @@ class ExampleTest extends TestCase
 
 }
 
-($test = new ExampleTest())->run();
+(new ExampleTest())->run();
