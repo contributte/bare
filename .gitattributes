@@ -1,4 +1,4 @@
-# Not archived
+# Excluded from archive
 .docs export-ignore
 tests export-ignore
 .editorconfig export-ignore
@@ -9,3 +9,6 @@ Makefile export-ignore
 phpstan.neon export-ignore
 README.md export-ignore
 ruleset.xml export-ignore
+
+# https://github.com/github/linguist
+*.php* diff=php linguist-language=PHP
