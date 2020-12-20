@@ -3,7 +3,7 @@
 install:
 	composer update
 
-qa: lint phpstan cs
+qa: phpstan cs
 
 cs:
 	vendor/bin/codesniffer src tests
@@ -12,7 +12,7 @@ csf:
 	vendor/bin/codefixer src tests
 
 phpstan:
-	vendor/bin/phpstan analyse -c phpstan.neon src
+	vendor/bin/phpstan analyse -l max -c phpstan.neon src
 
 tests:
 	vendor/bin/tester -s -p php --colors 1 -C tests/cases
