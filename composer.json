@@ -7,7 +7,7 @@
     "php"
   ],
   "type": "library",
-  "license": "MPL-2.0",
+  "license": "MIT",
   "homepage": "https://github.com/contributte/bare",
   "authors": [
     {
@@ -16,10 +16,10 @@
     }
   ],
   "require": {
-    "php": ">=7.3"
+    "php": ">=7.4"
   },
   "require-dev": {
-    "ninjify/nunjuck": "^0.4.0",
+    "ninjify/nunjuck": "^0.4",
     "ninjify/qa": "^0.12",
     "phpstan/phpstan": "^0.12",
     "phpstan/phpstan-deprecation-rules": "^0.12",
