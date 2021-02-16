@@ -1,8 +1,8 @@
 ![](https://heatbadger.now.sh/github/readme/contributte/bare/)
 
 <p align=center>
-  <a href="https://github.com/contributte/bare/actions"><img src="https://badgen.net/github/checks/contributte/bare/master?cache=300"></a>
-  <a href="https://coveralls.io/r/contributte/bare"><img src="https://badgen.net/coveralls/c/github/contributte/bare?cache=300"></a>
+  <a href="https://github.com/contributte/bare/actions"><img src="https://badgen.net/github/checks/contributte/bare/master"></a>
+  <a href="https://coveralls.io/r/contributte/bare"><img src="https://badgen.net/coveralls/c/github/contributte/bare"></a>
   <a href="https://packagist.org/packages/contributte/bare"><img src="https://badgen.net/packagist/dm/contributte/bare"></a>
   <a href="https://packagist.org/packages/contributte/bare"><img src="https://badgen.net/packagist/v/contributte/bare"></a>
 </p>
@@ -20,10 +20,10 @@ Website ðŸš€ <a href="https://contributte.org">contributte.org</a> | Contact ðŸ‘
 
 ## Usage
 
-To install the latest version of `contributte/bare` use [Composer](https://getcomposer.com).
+To install the latest version of `contributte/bare` use [Composer](https://getcomposer.org).
 
 ```
-composer require contributte/bare
+$ composer require contributte/bare
 ```
 
 ## Documentation
