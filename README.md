@@ -22,8 +22,8 @@ Website ðŸš€ <a href="https://contributte.org">contributte.org</a> | Contact ðŸ‘
 
 To install the latest version of `contributte/bare` use [Composer](https://getcomposer.org).
 
-```
-$ composer require contributte/bare
+```bash
+composer require contributte/bare
 ```
 
 ## Documentation
