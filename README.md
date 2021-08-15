@@ -47,6 +47,14 @@ This package is currently maintaining by these authors.
   <kbd><img width="80" height="80" src="https://avatars2.githubusercontent.com/u/538058?v=3&s=80"></kbd>
 </a>
 
+<a href="https://github.com/Roman3349">
+  <kbd><img id="mnw" width="80" height="80" src="https://avatars.githubusercontent.com/u/4655467?v=4"></kbd>
+</a>
+
+<a href="https://github.com/petrparolek">
+  <kbd><img id="mnw" width="80" height="80" src="https://avatars.githubusercontent.com/u/6066243?v=4"></kbd>
+</a>
+
 <a href="https://github.com/myonaingwinn">
   <kbd><img id="mnw" width="80" height="80" src="https://avatars.githubusercontent.com/u/77048446?v=4"></kbd>
 </a>
