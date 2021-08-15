@@ -32,10 +32,10 @@ For details on how to use this package, check out our [documentation](.docs).
 
 ## Versions
 
-| State       | Version       | Branch   | Nette | PHP     |
-|-------------|---------------|----------|-------|---------|
-| dev         | `dev-master`  | `master` | 3.0+  | `^7.4`  |
-| stable      | `^0.1`        | `master` | 3.0+  | `^7.3`  |
+| State  | Version      | Branch   | Nette | PHP    |
+| ------ | ------------ | -------- | ----- | ------ |
+| dev    | `dev-master` | `master` | 3.0+  | `^7.4` |
+| stable | `^0.1`       | `master` | 3.0+  | `^7.3` |
 
 ## Development
 
@@ -47,6 +47,9 @@ This package is currently maintaining by these authors.
   <img width="80" height="80" src="https://avatars2.githubusercontent.com/u/538058?v=3&s=80">
 </a>
 
+<a href="https://github.com/f3l1x">
+  <img width="80" height="80" src="https://avatars.githubusercontent.com/u/77048446?v=4">
+</a>
 -----
 
 Consider to [support](https://contributte.org/partners.html) **contributte** development team.
