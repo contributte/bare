@@ -44,12 +44,13 @@ See [how to contribute](https://contributte.org/contributing.html) to this packa
 This package is currently maintaining by these authors.
 
 <a href="https://github.com/f3l1x">
-  <img width="80" height="80" src="https://avatars2.githubusercontent.com/u/538058?v=3&s=80">
+  <kbd><img width="80" height="80" src="https://avatars2.githubusercontent.com/u/538058?v=3&s=80"></kbd>
 </a>
 
-<a href="https://github.com/f3l1x">
-  <img width="80" height="80" src="https://avatars.githubusercontent.com/u/77048446?v=4">
+<a href="https://github.com/myonaingwinn">
+  <kbd><img id="mnw" width="80" height="80" src="https://avatars.githubusercontent.com/u/77048446?v=4"></kbd>
 </a>
+
 -----
 
 Consider to [support](https://contributte.org/partners.html) **contributte** development team.
