@@ -18,17 +18,7 @@
 Website 🚀 <a href="https://contributte.org">contributte.org</a> | Contact 👨🏻‍💻 <a href="https://f3l1x.io">f3l1x.io</a> | Twitter 🐦 <a href="https://twitter.com/contributte">@contributte</a>
 </p>
 
-## Usage
-
-To install the latest version of `contributte/bare` use [Composer](https://getcomposer.org).
-
-```bash
-composer require contributte/bare
-```
-
-## Documentation
-
-For details on how to use this package, check out our [documentation](.docs).
+Empty library skeleton for quickly bootstrapping new Contributte packages.
 
 ## Versions
 
@@ -36,6 +26,14 @@ For details on how to use this package, check out our [documentation](.docs).
 |-------------|---------------|----------|-------|---------|
 | dev         | `dev-master`  | `master` | 3.0+  | `>=8.0` |
 | stable      | `^0.1`        | `master` | 3.0+  | `>=8.0` |
+
+## Installation
+
+To install the latest version of `contributte/bare` use [Composer](https://getcomposer.org).
+
+```bash
+composer require contributte/bare
+```
 
 ## Development
 
